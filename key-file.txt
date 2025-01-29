@@ -49,3 +49,11 @@ SRR22033372	Trehalose_t5_rep3
 SRR22033371	Trehalose_t10_rep1
 SRR22033370	Trehalose_t10_rep2
 SRR22033369	Trehalose_t10_rep3
+SRR8468306	5P-WT_dmso-rep1
+SRR8468307	5P-WT_cmk-rep1
+SRR8468308	5P-kin28is_dmso-rep1
+SRR8468309	5P-kin28is_cmk-rep1
+SRR8468310	5P-WT_dmso-rep2
+SRR8468311	5P-WT_cmk-rep2
+SRR8468312	5P-kin28is_dmso-rep2
+SRR8468313	5P-kin28is_cmk-rep2
