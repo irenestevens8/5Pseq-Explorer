@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Path to the key file
-KEY_FILE="key_file.txt"
+KEY_FILE="key-file.txt"
 
 # Read the key file line by line
 while IFS=$'\t' read -r SRR NEW_NAME; do
