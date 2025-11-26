@@ -1,4 +1,4 @@
-# **5PSeq Explorer: Interactive Analysis of Co-translational mRNA Decay and Ribosome Dynamics **
+# 5PSeq Explorer: Interactive Analysis of Co-translational mRNA Decay and Ribosome Dynamics
 
 **Irene Stevens<sup>1</sup>, Vicent Pelechano<sup>1</sup>**
 
