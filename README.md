@@ -77,7 +77,7 @@ All manuscript figures may be reproduced using the R scripts provided in this re
 
 - **Table S1:** [Public datasets used in this study](https://github.com/irenestevens8/5Pseq-Explorer/blob/main/Supplementary%20Table%201.%20Public%20datasets%20used.xlsx)
 - **Table S2:** [Metadata](https://github.com/irenestevens8/5Pseq-Explorer/blob/main/Supplementary%20Table%202.%20Metadata.xls)
-- **Table S3:** [RNA composition]()
+- **Table S3:** [RNA composition](https://github.com/irenestevens8/5Pseq-Explorer/blob/main/Supplementary%20Table%203-%20RNA%20Composition.xls)
 
 ---
 
