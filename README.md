@@ -45,31 +45,16 @@ The source code for the web version of 5PSeq Explorer is available at:
 
 ## Docker Containers
 
-For instructions on how to download and run precompiled versions of the software, please refer to the 5PSeq Explorer User Guide below.
+For instructions on how to download and run precompiled versions of the software, please refer to the User Manual below.
 
-- **Web 5PSeq Explorer:**  
+- **User Manual for 5PSeq Explorer:**  
+[5PSeq Explorer User Guide](https://github.com/irenestevens8/fivepseq/tree/Candida)
+
+- **Docker Image for Web-version of 5PSeq Explorer:**  
   https://hub.docker.com/repository/docker/stevensirene/fivepseq-explorer/tags/v1.3/sha256-24bb23231fd947c4574b2db344e0bcfb5726dbf6f504164dae80040a5cec5023
 
-- **Local version 5PSeq Explorer:**  
+- **Docker Image for Local version 5PSeq Explorer:**  
   https://hub.docker.com/repository/docker/stevensirene/5pseq-explorer-local/tags/v1.0/sha256-db7491fac8cbda52f9bdd6459cb2f178b4227c608370f5d7f464e0d77e61c87a
-
----
-
-## Scripts for Reproduction of Manuscript Figures
-
-All manuscript figures may be reproduced using the R scripts provided in this repository, with the exception of figures not prepared in R.
-
-### Main Figures
-
-- **Figure 3:** [R Markdown script]()
-- **Supplementary Figure 4:** [R Markdown script]()
-
----
-
-## Additional Data Pertaining to the Study
-
-- [Codon optimality data]()
-- [Codon stability data]()
 
 ---
 
